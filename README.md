@@ -2,7 +2,6 @@
   
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=✨JOYGitHub✨&fontcolor=ffee00&fontSize=45&"/>
 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpicjoy&count_bg=%23FFE400&title_bg=%23C5FF00&icon=protocols-dot-io.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
