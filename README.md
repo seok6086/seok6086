@@ -7,7 +7,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpicjoy&count_bg=%23FFE400&title_bg=%23C5FF00&icon=protocols-dot-io.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
    
-### Hi ! I'm Prospective backend developer Seok 🧑🏻‍💻 </br></br> Welcome To Seok's GitHub ✨</br></br> Contact Me by seok6086@kakao.com📫 </br></br> Joy's Tech Blog is [ Here! ](https://seok6086.tistory.com/) 📚
+### Hi ! I'm Prospective backend developer Seok 🧑🏻‍💻 </br></br> Welcome To Seok's GitHub ✨</br></br> Contact Me by seok6086@kakao.com📫 </br></br> Seok's Tech Blog is [ Here! ](https://seok6086.tistory.com/) 📚
 
 </div>
 </br>
